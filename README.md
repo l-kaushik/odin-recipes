@@ -1,6 +1,8 @@
 # odin-recipes
-This is my first website build while following the odin pojects.
+This is my first website build while following the odin projects
 
-<strong>on 22 May 2023 13:08 GMT +5:30</strong>
+### on 22 May 2023 13:08 GMT +5:30:
 
-In this project first I will create a index.html or the home page of the recipe website and later will add css to it too. 
+We have a file named "index.html" which is the homepage of this website.
+
+Then we have sub-folders with recipe name, and these folders also contains the .html file for their recipe page and also the required images too.
