@@ -1,4 +1,6 @@
 # odin-recipes
-This is the first website build while following the odin pojects.
+This is my first website build while following the odin pojects.
 
-In this project first I will create a Index.html or the home page of the recipe website and later will add css to it too.
+<strong>on 22 May 2023 13:08 GMT +5:30</strong>
+
+In this project first I will create a index.html or the home page of the recipe website and later will add css to it too. 
