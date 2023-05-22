@@ -1,6 +1,8 @@
 # odin-recipes
 This is my first website build while following the odin projects
 
+Live preview: https://l-kaushik.github.io/odin-recipes/
+
 ### on 22 May 2023 13:08 GMT +5:30:
 
 We have a file named "index.html" which is the homepage of this website.
