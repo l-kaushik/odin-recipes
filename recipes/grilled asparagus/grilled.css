@@ -1,0 +1,16 @@
+body{
+    font-family: 'Lucida Sans',Geneva, Verdana, sans-serif,'Times New Roman', Times, serif;
+    list-style-position: inside;
+    text-align: center;
+}
+
+.title{
+    background-color: blanchedalmond;
+    font-size: 40px;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
