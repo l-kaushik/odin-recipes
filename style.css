@@ -1,0 +1,18 @@
+.heading{
+    color: black;
+    font-family: 'Lucida Sans',Geneva, Verdana, sans-serif,'Times New Roman', Times, serif;
+    background-color: rgb(143, 212, 245);
+    text-align: center;
+
+}
+
+.list{
+    text-align: center;
+    background-color: black;
+}
+
+.link1, .link2, .link3{
+    color: rgb(243, 31, 31);
+    background-color: rgb(29, 0, 0);
+    
+}
