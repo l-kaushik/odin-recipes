@@ -3,8 +3,9 @@ This is my first website build while following the odin projects
 
 Live preview: https://l-kaushik.github.io/odin-recipes/
 
-### on 22 May 2023 13:08 GMT +5:30:
+# Description
+* We have a file named "index.html" which is the homepage of this website.
 
-We have a file named "index.html" which is the homepage of this website.
+* Then we have sub-folders with recipe name, and these folders also contains the .html file for their recipe page and also the required images too.
 
-Then we have sub-folders with recipe name, and these folders also contains the .html file for their recipe page and also the required images too.
+
