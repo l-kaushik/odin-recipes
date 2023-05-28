@@ -8,4 +8,5 @@ Live preview: https://l-kaushik.github.io/odin-recipes/
 
 * Then we have sub-folders with recipe name, and these folders also contains the .html file for their recipe page and also the required images too.
 
+* There are corresponding .css for the styling.
 
