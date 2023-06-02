@@ -37,5 +37,9 @@ body{
     background-color: rgb(156, 215, 243);
 }
 
+/* making a clickable div */
+a { 
+    display: block;
+}
 
 
