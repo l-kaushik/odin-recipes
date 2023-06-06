@@ -10,3 +10,4 @@ Live preview: https://l-kaushik.github.io/odin-recipes/
 
 * There are corresponding .css for the styling.
 
+NOTE:- I think to make this website more beautiful, but let's just leave it, so I can look back like from where I started.
